@@ -1,6 +1,4 @@
 /*
-Names: Darren Rambaud (d_r273)
-       Luis Gomez (lg1336)
 
 TSP code for CS 4380 / CS 5351
 
@@ -23,6 +21,8 @@ ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
 SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 Author: Martin Burtscher
+Co-Author(s): Darren Rambaud (d_r273)
+              Luis Gomez (lg1336) 
 */
 
 #include <cstdlib>
